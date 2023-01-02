@@ -1,0 +1,41 @@
+Arguments: 
+  /home/anderson/.nvm/versions/node/v19.3.0/bin/node /home/anderson/.nvm/versions/node/v19.3.0/bin/yarn add typescript ts-node-dev -D
+
+PATH: 
+  /home/anderson/.nvm/versions/node/v19.3.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  19.3.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: EACCES: permission denied, mkdir '/home/anderson/Área de Trabalho/Estudos/fullCycle/learning-communication-between-systems/GraphQL/node_modules/accepts'
+
+npm manifest: 
+  {
+    "name": "graphql",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2",
+      "express-graphql": "^0.12.0",
+      "graphql": "^15.8.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

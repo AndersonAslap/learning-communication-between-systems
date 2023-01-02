@@ -94,6 +94,11 @@ Media type = application/hal+json
 ```
 
 
+> GraphQL
+
+
+
+
 > gRPC (Remote Procedure Call)
 
 - gRPC é um framework desenvolvido pela google que tem o objetivo facilitar o processo de comunicação entre sistemas 
